@@ -1,30 +1,30 @@
 # literasi-bahasa-inggris
 
-> ⚠️ **Prototype** — this is an early version. Full version available via DM [@muqsith.ai](https://www.instagram.com/muqsith.ai/)
+> ⚠️ **Prototype** — ini versi awal. Versi lengkap tersedia via DM [@muqsith.ai](https://www.instagram.com/muqsith.ai/)
 
-A Claude skill for practicing English Literacy questions for TOBK/UTBK exam prep. Made by [@mqsth](https://www.instagram.com/muqsith.ai/).
+Skill Claude untuk latihan soal Literasi Bahasa Inggris TOBK/UTBK. Dibuat oleh [@mqsth](https://www.instagram.com/muqsith.ai/).
 
 ---
 
 ## Preview
 
-<!-- Replace with your own screenshots, place files in the /assets/ folder -->
+<!-- Ganti dengan screenshot kamu sendiri, taruh file-nya di folder /assets/ -->
 
-| Question View | Results & Breakdown |
+| Tampilan Soal | Hasil & Breakdown |
 |---|---|
-| ![Question View](assets/screenshot-soal.png) | ![Results](assets/screenshot-hasil.png) |
+| ![Tampilan Soal](assets/screenshot-soal.png) | ![Hasil](assets/screenshot-hasil.png) |
 
-| Review Mode |
+| Mode Review |
 |---|
-| ![Review Mode](assets/screenshot-review.png) |
+| ![Mode Review](assets/screenshot-review.png) |
 
 ---
 
-## How to Use
+## Cara Pakai
 
-1. Download `SKILL.md` from this repo
-2. Upload to Claude via **Settings > Skills**
-3. Type one of the triggers below:
+1. Download `SKILL.md` dari repo ini
+2. Upload ke Claude via **Settings > Skills**
+3. Ketik salah satu pemicu berikut:
 
 ```
 literasi bahasa inggris
@@ -37,32 +37,32 @@ minta soal inggris
 
 ---
 
-## Features
+## Fitur
 
-- 20 multiple choice questions (A–E) per session, always freshly generated
-- Based on 2–3 authentic reading texts (150–250 words each)
-- Varied topics: science, environment, technology, social, health
-- Interactive widget embedded directly in chat — no file download needed
-- 20-minute countdown timer (1,200 seconds)
-- One-by-one question navigation with dot navigator
-- Prev / Skip / Next buttons
-- Auto scoring (correct = 1, wrong/blank = 0)
-- Results page: score, grade, message, per-category breakdown
-- Review mode: correct/wrong highlights + explanation for each question
-- "Try again" button for a new session
-- Automatically adapts to Claude's light/dark theme
+- 20 soal pilihan ganda (A–E) per sesi, selalu baru setiap dipanggil
+- Berbasis 2–3 teks bacaan autentik (150–250 kata per teks)
+- Topik bervariasi: sains, lingkungan, teknologi, sosial, kesehatan
+- Widget interaktif langsung tertanam di chat, tidak perlu download file
+- Timer hitung mundur 20 menit (1.200 detik)
+- Navigasi soal satu per satu dengan dot navigator
+- Tombol Prev / Skip / Next
+- Sistem skoring otomatis (benar = 1, salah/kosong = 0)
+- Halaman hasil: skor, grade, pesan, breakdown per kategori
+- Mode review: highlight jawaban benar/salah + pembahasan tiap soal
+- Tombol "Coba lagi" untuk sesi baru
+- Otomatis menyesuaikan tema terang/gelap Claude
 
 ---
 
-## Question Types
+## Tipe Soal
 
-| Type | Per Session |
+| Tipe | Jumlah per Sesi |
 |---|---|
 | Tone / Attitude | 2–3 |
 | Field of Study | 1–2 |
 | Target Readers / The Writer | 1–2 |
 | Vocabulary (Synonym / Antonym / Modal) | 2–3 |
-| Reference (Pronoun) | 2–3 |
+| Reference (Pronoun rujukan) | 2–3 |
 | Restatement | 2–3 |
 | Summary / Main Idea | 2–3 |
 | Analogy | 1–2 |
@@ -72,20 +72,20 @@ minta soal inggris
 
 ---
 
-## Compatibility
+## Kompatibilitas
 
-Runs on [claude.ai](https://claude.ai) with the Skills feature enabled.
+Berjalan di [claude.ai](https://claude.ai) dengan fitur Skills aktif.
 
-> **Note:** This skill combines Claude's **Skills** and **Visualizer** features. Both run fully on desktop browsers — the interactive widget appears directly inside the chat. Mobile experience may not be optimal due to widget rendering limitations in the Claude mobile app.
+> **Catatan:** Skill ini menggabungkan fitur **Skills** dan **Visualizer** milik Claude. Keduanya berjalan penuh di perangkat desktop dan browser — widget interaktif muncul langsung di dalam chat. Pengalaman di perangkat mobile mungkin tidak optimal karena keterbatasan render widget pada aplikasi Claude versi mobile.
 
-Simply put, Skills handles understanding your request and preparing the questions, while the Visualizer displays them as an interactive widget right inside the chat. Since both need enough screen space to work properly, using a browser on a laptop or desktop will give you the best experience.
-
----
-
-## Full Version
-
-This is the prototype version. For the full version, DM [@muqsith.ai](https://www.instagram.com/muqsith.ai/) on Instagram.
+Sederhananya, Skills bertugas memahami permintaan kamu dan menyiapkan soal, sementara Visualizer yang menampilkannya sebagai tampilan interaktif langsung di dalam chat. Karena keduanya butuh ruang layar yang cukup untuk bekerja dengan baik, penggunaan lewat browser di laptop atau komputer akan memberikan pengalaman terbaik.
 
 ---
 
-Made by **mqsth** · [@muqsith.ai](https://www.instagram.com/muqsith.ai/)
+## Versi Lengkap
+
+Ini adalah versi prototype. Untuk versi yang lebih lengkap, DM [@muqsith.ai](https://www.instagram.com/muqsith.ai/) di Instagram.
+
+---
+
+Dibuat oleh **mqsth** · [@muqsith.ai](https://www.instagram.com/muqsith.ai/)
