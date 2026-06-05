@@ -56,11 +56,11 @@ Distribusikan 20 soal dari tipe-tipe berikut (variasikan tiap sesi):
 - **Specific** (Journal, Research Paper): bahasa ilmiah, topik sains → Target Readers: scientist, researcher, doctor. Tone: Informative, Objective, Resourceful.
 - **Tone Highlight Fact** (Report, News, Explanation) → Informative, Objective, Neutral, Resourceful
 - **Tone Highlight Opinion** (Argumentative, Hortatory, Discussion) → Subjective, Concerned, Worried, Critical, Persuasive
-- **Email Thread Rumus THE KING = IS3**: Informative, Subjective, Supportive, Suggestive
+- **Email Thread Rumus IS3**: Informative, Subjective, Supportive, Suggestive
 ### PAKET IV — VOCABULARY, REFERENCE, RESTATEMENT, SUMMARY
 - Modal meanings: Can/Could=Ability, May/Might=Possibility, Shall/Should=Suggestion, Must/Had to=Obligation, Will/Would=Planning
 - Reference: Subject (I/You/They/We/He/She/It), Object (Me/You/Them/Us/Him/Her/It), Possessive Adj (My/Your/Their/Our/His/Her/Its), Possessive Pron (Mine/Yours/Theirs/Ours/His/Hers/Its)
-- Summary Rumus: **THE KING MADE LUSI** → MADE=Main Idea, LUSI=Conclusion
+- Summary Rumus: **MADE LUSI** → MADE=Main Idea, LUSI=Conclusion
 ### PAKET V — ANALOGY, IRRELEVANT SENTENCE, WHERE INFO IS FOUND
 - Analogy: baca paragraf yang berisi analogi → pilih opsi yang hubungannya paling mirip
 - Author's Positive Attitude: cari pernyataan positif yang mendukung topik
