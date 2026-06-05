@@ -1,18 +1,31 @@
 # literasi-bahasa-inggris
 
-> ⚠️ **Prototype** — skill ini masih dalam tahap awal dan belum final.
+> ⚠️ **Prototype** — this is an early version. Full version available via DM [@muqsith.ai](https://www.instagram.com/muqsith.ai/)
 
-Skill Claude untuk latihan soal Literasi Bahasa Inggris TOBK/UTBK. Dibuat oleh [@mqsth](https://www.instagram.com/muqsith.ai/).
+A Claude skill for practicing English Literacy questions for TOBK/UTBK exam prep. Made by [@mqsth](https://www.instagram.com/muqsith.ai/).
 
 ---
 
-## Cara Pakai
+## Preview
 
-1. Download `SKILL.md` dari repo ini
-2. Upload ke Claude via **Settings > Skills**
-3. Ketik salah satu pemicu di bawah ini
+<!-- Replace with your own screenshots, place files in the /assets/ folder -->
 
-**Pemicu:**
+| Question View | Results & Breakdown |
+|---|---|
+| ![Question View](assets/screenshot-soal.png) | ![Results](assets/screenshot-hasil.png) |
+
+| Review Mode |
+|---|
+| ![Review Mode](assets/screenshot-review.png) |
+
+---
+
+## How to Use
+
+1. Download `SKILL.md` from this repo
+2. Upload to Claude via **Settings > Skills**
+3. Type one of the triggers below:
+
 ```
 literasi bahasa inggris
 soal literasi
@@ -24,26 +37,32 @@ minta soal inggris
 
 ---
 
-## Fitur
+## Features
 
-- 20 soal pilihan ganda (A–E) per sesi, selalu baru tiap dipanggil
-- 11 tipe soal TOBK/UTBK (Tone, Vocabulary, Reference, Restatement, Summary, dll.)
-- Widget interaktif langsung di chat — tidak perlu download file
-- Timer 20 menit hitung mundur
-- Skoring otomatis + breakdown per kategori
-- Mode review dengan pembahasan tiap soal
+- 20 multiple choice questions (A–E) per session, always freshly generated
+- Based on 2–3 authentic reading texts (150–250 words each)
+- Varied topics: science, environment, technology, social, health
+- Interactive widget embedded directly in chat — no file download needed
+- 20-minute countdown timer (1,200 seconds)
+- One-by-one question navigation with dot navigator
+- Prev / Skip / Next buttons
+- Auto scoring (correct = 1, wrong/blank = 0)
+- Results page: score, grade, message, per-category breakdown
+- Review mode: correct/wrong highlights + explanation for each question
+- "Try again" button for a new session
+- Automatically adapts to Claude's light/dark theme
 
 ---
 
-## Tipe Soal
+## Question Types
 
-| Tipe | Jumlah |
+| Type | Per Session |
 |---|---|
 | Tone / Attitude | 2–3 |
 | Field of Study | 1–2 |
 | Target Readers / The Writer | 1–2 |
 | Vocabulary (Synonym / Antonym / Modal) | 2–3 |
-| Reference | 2–3 |
+| Reference (Pronoun) | 2–3 |
 | Restatement | 2–3 |
 | Summary / Main Idea | 2–3 |
 | Analogy | 1–2 |
@@ -53,10 +72,20 @@ minta soal inggris
 
 ---
 
-## Kompatibilitas
+## Compatibility
 
-Berjalan di [claude.ai](https://claude.ai) dengan fitur Skills aktif.
+Runs on [claude.ai](https://claude.ai) with the Skills feature enabled.
+
+> **Note:** This skill combines Claude's **Skills** and **Visualizer** features. Both run fully on desktop browsers — the interactive widget appears directly inside the chat. Mobile experience may not be optimal due to widget rendering limitations in the Claude mobile app.
+
+Simply put, Skills handles understanding your request and preparing the questions, while the Visualizer displays them as an interactive widget right inside the chat. Since both need enough screen space to work properly, using a browser on a laptop or desktop will give you the best experience.
 
 ---
 
-Feedback? DM [@muqsith.ai](https://www.instagram.com/muqsith.ai/) 👋
+## Full Version
+
+This is the prototype version. For the full version, DM [@muqsith.ai](https://www.instagram.com/muqsith.ai/) on Instagram.
+
+---
+
+Made by **mqsth** · [@muqsith.ai](https://www.instagram.com/muqsith.ai/)
