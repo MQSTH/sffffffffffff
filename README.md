@@ -89,3 +89,37 @@ Ini adalah versi prototype. Untuk versi yang lebih lengkap, DM [@muqsith.ai](htt
 ---
 
 Dibuat oleh **mqsth** · [@muqsith.ai](https://www.instagram.com/muqsith.ai/)
+
+---
+
+## Skill Lainnya
+
+Skill lainnya yang dibuat oleh **mqsth**:
+
+**SNBT / UTBK**
+| Kode | Subtes |
+|---|---|
+| PPU | Pengetahuan dan Pemahaman Umum |
+| PM | Penalaran Matematika |
+| PK | Pengetahuan Kuantitatif |
+| LBI | Literasi Bahasa Indonesia |
+| LBE | Literasi Bahasa Inggris ← kamu di sini |
+| PBM | Pemahaman Bacaan dan Menulis |
+| PU | Penalaran Umum |
+
+**CPNS / SKD**
+| Kode | Subtes |
+|---|---|
+| TIU | Tes Inteligensi Umum |
+| TWK | Tes Wawasan Kebangsaan |
+| TKP | Tes Karakteristik Pribadi |
+
+**UIN / UMPTKIN**
+| Kode | Subtes |
+|---|---|
+| PA UIN | Penalaran Akademik |
+| PM UIN | Penalaran Matematika |
+| LAI UIN | Literasi Agama Islam |
+| LM UIN | Literasi Membaca |
+
+DM [@muqsith.ai](https://www.instagram.com/muqsith.ai/) untuk akses versi lengkap (non-prototype) dan skill lainnya.
