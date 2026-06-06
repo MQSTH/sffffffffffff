@@ -89,3 +89,37 @@ This is the prototype version. For the full version, DM [@muqsith.ai](https://ww
 ---
 
 Made by **mqsth** · [@muqsith.ai](https://www.instagram.com/muqsith.ai/)
+
+---
+
+## More Skills
+
+Other skills made by **mqsth**:
+
+**SNBT / UTBK**
+| Code | Subtest |
+|---|---|
+| PPU | General Knowledge & Understanding |
+| PM | Mathematical Reasoning |
+| PK | Quantitative Knowledge |
+| LBI | Indonesian Literacy |
+| LBE | English Literacy ← you are here |
+| PBM | Reading & Writing Comprehension |
+| PU | General Reasoning |
+
+**CPNS / SKD**
+| Code | Subtest |
+|---|---|
+| TIU | General Intelligence Test |
+| TWK | National Insight Test |
+| TKP | Personal Characteristics Test |
+
+**UIN / UMPTKIN**
+| Code | Subtest |
+|---|---|
+| PA UIN | Academic Reasoning |
+| PM UIN | Mathematical Reasoning |
+| LAI UIN | Islamic Religious Literacy |
+| LM UIN | Reading Literacy |
+
+DM [@muqsith.ai](https://www.instagram.com/muqsith.ai/) for access to full versions (non-prototype) and other skills.
